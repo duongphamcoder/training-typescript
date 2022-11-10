@@ -1,0 +1,13 @@
+.guide-item {
+  font-size: 12px;
+  list-style: none;
+  text-align: center;
+  font-family: var(--font-roboto);
+  color: var(--third-color);
+  line-height: 25px;
+}
+
+.guide-item:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
